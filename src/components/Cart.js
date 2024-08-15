@@ -12,7 +12,7 @@ function Cart() {
          <li>Lierre : {ivyPrice}€</li>
          <li>Fleurs : {flowerPrice}€</li>
         </ul>
-        Total : {monsteraPrice + ivyPrice + flowerPrice }€
+        Total : {monsteraPrice + ivyPrice + flowerPrice}€
       </div>
     );
 }
